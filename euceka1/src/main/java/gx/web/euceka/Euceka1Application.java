@@ -10,6 +10,7 @@ public class Euceka1Application {
 
     public static void main(String[] args) {
         System.out.println("你好呀");
+        System.out.println("你好呀第二次提交");
         SpringApplication.run(Euceka1Application.class, args);
     }
 
