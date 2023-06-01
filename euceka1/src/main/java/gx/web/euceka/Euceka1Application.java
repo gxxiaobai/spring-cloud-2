@@ -14,6 +14,8 @@ public class Euceka1Application {
         System.out.println("hot-fix第一次修复");
         System.out.println("master 分支测试");
         System.out.println("hot-fix第二次修复");
+        System.out.println("日常练习");
+
         SpringApplication.run(Euceka1Application.class, args);
     }
 
