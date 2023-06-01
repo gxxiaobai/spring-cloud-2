@@ -11,6 +11,7 @@ public class Euceka1Application {
     public static void main(String[] args) {
         System.out.println("你好呀");
         System.out.println("你好呀第二次提交");
+        System.out.println("hot-fix第一次修复");
         SpringApplication.run(Euceka1Application.class, args);
     }
 
