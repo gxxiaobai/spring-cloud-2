@@ -15,6 +15,7 @@ public class Euceka1Application {
         System.out.println("master 分支测试");
         System.out.println("hot-fix第二次修复");
         System.out.println("日常练习");
+         System.out.println("git 服务端进行了修改");
 
         SpringApplication.run(Euceka1Application.class, args);
     }
